@@ -1,0 +1,13 @@
+body {
+    background-color: #f1e9d2;
+}
+p {
+	color: blue;
+}
+h1 {
+	color: black;
+}
+
+table, th, td {
+    border: 1px solid black;
+} 
